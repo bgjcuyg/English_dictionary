@@ -2,8 +2,8 @@ body{
     margin:0;
     /* background-color:#ffd1d9; */
     background-image:url("https://previews.123rf.com/images/cetkauskas/cetkauskas1906/cetkauskas190600022/124623833-many-multicolored-wooden-letters-on-a-pink-background-toy-letters-english-alphabet-view-from-above.jpg");
-    /* background-repeat: no-repeat;
-    background-size: cover; */
+     background-repeat: no-repeat;
+   /* background-size: cover; */
     min-width: 100vh;
     display: flex;
     min-height: 100vh;
