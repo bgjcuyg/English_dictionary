@@ -1,0 +1,39 @@
+body{
+    margin:0;
+    /* background-color:#ffd1d9; */
+    background-image:url("https://previews.123rf.com/images/cetkauskas/cetkauskas1906/cetkauskas190600022/124623833-many-multicolored-wooden-letters-on-a-pink-background-toy-letters-english-alphabet-view-from-above.jpg");
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+    min-width: 100vh;
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    font-family:cursive;
+
+}
+.container{
+    /* background-color:#ffd1d9 ; */
+    background-color: rgba(255,255,255,.3);
+    padding:28px;
+    border-radius: 15px;
+    box-shadow: 0 10px 10px rgba(0,0,0,.3);
+    width: 90%;
+    text-align: center;
+    margin: 10px;
+    max-width: 450px;
+    font-size: 18px;
+    /* font-weight: 500 */
+}
+.input{
+    background: rgba(255,255,255,.6);
+    height: 50px;
+    width: 300px;
+    border-color: rgba(255,255,255,.4);
+    font-size: 16px;
+    padding:0 40px;
+    border-radius: 5px;
+}
+.reasult-container{
+    display: none;
+}
